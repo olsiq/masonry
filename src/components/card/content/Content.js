@@ -11,7 +11,7 @@ export const Content = ({ image, alt, size }) => {
   const path = image;
   return (
     <Fragment>
-      <img alt={alt} src={path} style={dimension} />
+      <img alt={size} src={path} style={dimension} />
     </Fragment>
   );
 };
