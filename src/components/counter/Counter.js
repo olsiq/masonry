@@ -5,7 +5,7 @@ import {
   selectUrls,
   selectAuthors,
   selectIds,
-} from "./counterSlice";
+} from "../../app/counterSlice";
 import styles from "./Counter.module.css";
 
 export function Counter() {
