@@ -37,3 +37,17 @@
     transform: translateY(0px);
   }
 }
+
+.btnsWrapper {
+  display: flex;
+  flex-direction: column;
+  margin: 10px 0;
+}
+
+h6 {
+  padding: 0;
+}
+
+* {
+  color: white;
+}

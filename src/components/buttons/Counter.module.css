@@ -56,6 +56,7 @@
 .asyncButton {
   composes: button;
   position: relative;
+  margin: 5px 0;
 }
 
 .asyncButton:after {
